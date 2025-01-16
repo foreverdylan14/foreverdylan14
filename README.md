@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Dylan O'Brien, I am a second-semester freshman studying computer Science at Wright State University. 
+
 <!--
 **foreverdylan14/foreverdylan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
